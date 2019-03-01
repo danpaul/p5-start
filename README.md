@@ -4,7 +4,7 @@ This repo provides boilerplate to run P5.js using modern webpack build system wi
 
 ## Setup
 
-`git clone`
+`git clone https://github.com/danpaul/p5-starter`
 
 `cd p5-starter`
 
